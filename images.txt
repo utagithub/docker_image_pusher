@@ -6,5 +6,14 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:3.19.1
 #jaegertracing/all-in-one:1.42.0
-prom/prometheus:v2.28.1
-grafana/grafana:8.0.6
+#prom/prometheus:v2.28.1
+#grafana/grafana:8.0.6
+docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+docker.elastic.co/kibana/kibana:7.13.4
+kevinwan/go-stash:1.0-arm64
+elastic/filebeat:7.13.4
+wurstmeister/zookeeper
+wurstmeister/kafka
+hibiken/asynqmon:latest
+mysql/mysql-server:8.0.28
+redis:6.2.5
