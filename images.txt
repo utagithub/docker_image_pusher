@@ -9,10 +9,10 @@
 #hibiken/asynqmon:latest
 #jaegertracing/all-in-one:1.42.0
 #docker.elastic.co/kibana/kibana:7.13.4
---platform=arm64/v8 docker.elastic.co/elasticsearch/elasticsearch:7.13.4
-#prom/prometheus:v2.28.1
-#grafana/grafana:8.0.6
+--platform=linux/arm64/v8 docker.elastic.co/elasticsearch/elasticsearch:7.13.4
+#--platform=linux/arm64 prom/prometheus:v2.28.1
+#--platform=linux/arm64 grafana/grafana:8.0.6
 #kevinwan/go-stash:1.0-arm64
-#elastic/filebeat:7.13.4
+--platform=linux/arm64 elastic/filebeat:7.13.4
 #mysql/mysql-server:8.0.28
 #redis:6.2.5
