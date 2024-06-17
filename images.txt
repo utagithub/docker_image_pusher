@@ -5,4 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:3.19.1
-jaegertracing/all-in-one:1.42.0
+#jaegertracing/all-in-one:1.42.0
+prom/prometheus:v2.28.1
+grafana/grafana:8.0.6
