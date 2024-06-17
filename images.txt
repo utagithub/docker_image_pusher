@@ -4,7 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=arm64/v8
 #wurstmeister/zookeeper
 #wurstmeister/kafka
 #hibiken/asynqmon:latest
