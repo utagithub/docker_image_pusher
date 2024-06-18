@@ -22,5 +22,7 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.7
 #elastic/filebeat:7.17.7
 
-docker.io/library/golang:1.20.3-alpine
-nginx:1.21.5
+#docker.io/library/golang:1.20.3-alpine
+#nginx:1.21.5
+
+lyumikael/go-modd-env:v1.0.0
