@@ -18,6 +18,9 @@
 #mysql/mysql-server:8.0.28
 #redis:6.2.5
 
-docker.elastic.co/kibana/kibana:7.17.7
-docker.elastic.co/elasticsearch/elasticsearch:7.17.7
-elastic/filebeat:7.17.7
+#docker.elastic.co/kibana/kibana:7.17.7
+#docker.elastic.co/elasticsearch/elasticsearch:7.17.7
+#elastic/filebeat:7.17.7
+
+docker.io/library/golang:1.20.3-alpine
+nginx:1.21.5
