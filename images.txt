@@ -26,4 +26,5 @@
 #nginx:1.21.5
 
 #lyumikael/go-modd-env:v1.0.0
-devilbox/php-fpm:8.2-prod
+#devilbox/php-fpm:8.2-prod
+openjdk:8u181-jre
