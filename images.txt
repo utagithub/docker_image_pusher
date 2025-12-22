@@ -29,4 +29,5 @@
 #devilbox/php-fpm:8.2-prod
 #openjdk:8u181-jre
 #redis:8.4.0
-mysql:8.4
+#mysql:8.4
+etcd:latest
