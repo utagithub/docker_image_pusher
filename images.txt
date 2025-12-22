@@ -36,4 +36,5 @@
 #nats:latest
 #mariadb:latest
 #tdengine/tdengine:latest
-emqx:latest
+#emqx:latest
+minio/minio:latest
