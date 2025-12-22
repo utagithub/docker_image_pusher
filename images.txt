@@ -33,4 +33,5 @@
 #etcd:latest
 #bitnami/postgresql:latest
 #bitnami/etcd:latest
-nats:latest
+#nats:latest
+mariadb:latest
