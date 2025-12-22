@@ -37,4 +37,5 @@
 #mariadb:latest
 #tdengine/tdengine:latest
 #emqx:latest
-minio/minio:latest
+#minio/minio:latest
+emqx/emqx:5.8
