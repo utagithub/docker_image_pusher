@@ -31,4 +31,5 @@
 #redis:8.4.0
 #mysql:8.4
 #etcd:latest
-bitnami/postgresql:latest
+#bitnami/postgresql:latest
+bitnami/etcd:latest
