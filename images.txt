@@ -34,4 +34,5 @@
 #bitnami/postgresql:latest
 #bitnami/etcd:latest
 #nats:latest
-mariadb:latest
+#mariadb:latest
+tdengine/tdengine:latest
