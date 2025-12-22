@@ -35,4 +35,5 @@
 #bitnami/etcd:latest
 #nats:latest
 #mariadb:latest
-tdengine/tdengine:latest
+#tdengine/tdengine:latest
+emqx:latest
