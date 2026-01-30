@@ -39,4 +39,5 @@
 #emqx:latest
 #minio/minio:latest
 #emqx/emqx:5.8
-canal/canal-server
+#canal/canal-server
+canal/canal-admin
