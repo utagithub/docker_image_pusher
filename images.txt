@@ -42,4 +42,5 @@
 #canal/canal-server
 #canal/canal-admin
 #liliankasem/kafka-connect:1.1.0
-soldevelo/kafka
+#soldevelo/kafka
+wurstmeister/kafka
