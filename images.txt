@@ -41,4 +41,5 @@
 #emqx/emqx:5.8
 #canal/canal-server
 #canal/canal-admin
-liliankasem/kafka-connect:1.1.0
+#liliankasem/kafka-connect:1.1.0
+soldevelo/kafka
