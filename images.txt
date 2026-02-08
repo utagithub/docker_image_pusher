@@ -44,4 +44,5 @@
 #liliankasem/kafka-connect:1.1.0
 #soldevelo/kafka
 #wurstmeister/kafka
-bitnami/kafka
+#bitnami/kafka
+bitnami/etcd:latest
