@@ -45,4 +45,5 @@
 #soldevelo/kafka
 #wurstmeister/kafka
 #bitnami/kafka
-bitnami/etcd:latest
+#bitnami/etcd:latest
+clickhouse/clickhouse-server:latest
