@@ -46,4 +46,5 @@
 #wurstmeister/kafka
 #bitnami/kafka
 #bitnami/etcd:latest
-clickhouse/clickhouse-server:latest
+#clickhouse/clickhouse-server:latest
+canal/canal-admin:v1.1.8
