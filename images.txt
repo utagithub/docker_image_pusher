@@ -48,4 +48,5 @@
 #bitnami/etcd:latest
 #clickhouse/clickhouse-server:latest
 #canal/canal-admin:v1.1.8
-canal/canal-server:v1.1.8
+#canal/canal-server:v1.1.8
+minio/minio:RELEASE:2025-04-08T15-41-24Z
