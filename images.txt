@@ -49,4 +49,7 @@
 #clickhouse/clickhouse-server:latest
 #canal/canal-admin:v1.1.8
 #canal/canal-server:v1.1.8
-minio/minio:RELEASE:2025-04-08T15-41-24Z
+#minio/minio:RELEASE:2025-04-08T15-41-24Z
+#https://www.figma.com/design/u95lgG8Q2lP7mqCLc3eG4x/260109%E7%BD%91%E4%BA%91UI?node-id=0-1&p=f&t=u4RtsdMOlSFshhGQ-0
+#https://www.figma.com/design/PPLF3GFfCLNYN9zLwbUTnE/%E7%BD%91%E4%BA%91%E4%B8%9A%E5%8A%A1%E9%A1%B9%E7%9B%AE?node-id=1413-11800&p=f&t=KutfCPvEEyc8Zqis-0
+#https://www.figma.com/design/PPLF3GFfCLNYN9zLwbUTnE/%E7%BD%91%E4%BA%91%E4%B8%9A%E5%8A%A1%E9%A1%B9%E7%9B%AE?node-id=1419-14526&m=dev&t=1eXy4XC4wxkBYle9-1
