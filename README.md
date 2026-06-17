@@ -78,3 +78,13 @@ xiaoyaliu/alist
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)
 ![](doc/定时执行.png)
+
+
+3xui 
+18888
+I_y4mSlAN9Z9ZeGi5xhTLS85j1HHrw1_lXU76shROk0.gA1FtQY8DkVT8fTpPxLEaWdKltpTu2SQttVc-R4sNC0
+bR-GDPQ_XzV9UNQWqCbU5aP3BettcJYV2QCWcn5sgJQ.gA1FtQY8DkVT8fTpPxLEaWdKltpTu2SQttVc-R4sNC0
+http://43.98.190.59:18888/nm4zLA1OtWg3Jehpag/
+http://43.98.190.59:2096/sub/z8je70osnie8zdsl
+http://43.98.190.59:2096/clash/z8je70osnie8zdsl
+CLASH VERGE
