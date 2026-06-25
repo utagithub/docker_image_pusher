@@ -88,3 +88,6 @@ http://43.98.190.59:18888/nm4zLA1OtWg3Jehpag/
 http://43.98.190.59:2096/sub/z8je70osnie8zdsl
 http://43.98.190.59:2096/clash/z8je70osnie8zdsl
 CLASH VERGE
+https://47.77.177.248:18888/BgCvWAQSYE1RHTsOfz/
+
+https://47.77.177.248:2096/sub/ezh1v276it6lo0po
